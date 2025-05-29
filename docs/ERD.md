@@ -1,2 +1,2 @@
 # Entity-Relationship Diagram (ERD)
-![ERD](./images/erd.png)
+![ERD](./images/ERD.png)
