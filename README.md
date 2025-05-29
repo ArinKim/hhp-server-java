@@ -3,9 +3,9 @@ e-Commerce 플랫폼을 위한 인프라 구축 프로젝트입니다.
 
 ## 목차
 - [마일스톤](https://github.com/ArinKim/hhp-server-java/milestones)
-- [Sequence Diagram](https://github.com/ArinKim/hhp-server-java/blob/9683896045d847fb619aa6edc2253c9fd956cf4c/docs/SEQUENCE_DIAGRAM.md)
-- [ERD](https://github.com/ArinKim/hhp-server-java/blob/9683896045d847fb619aa6edc2253c9fd956cf4c/docs/ERD.md)
-- [API specs](https://github.com/ArinKim/hhp-server-java/blob/9683896045d847fb619aa6edc2253c9fd956cf4c/docs/API_SPECIFICATION.md)
+- [Sequence Diagram](https://github.com/ArinKim/hhp-server-java/blob/feature/week2_%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4_%EB%B6%84%EC%84%9D/docs/SEQUENCE_DIAGRAM.md)
+- [ERD](https://github.com/ArinKim/hhp-server-java/blob/feature/week2_%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4_%EB%B6%84%EC%84%9D/docs/ERD.md)
+- [API specs](https://github.com/ArinKim/hhp-server-java/blob/feature/week2_%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4_%EB%B6%84%EC%84%9D/docs/API_SPECIFICATION.md)
 
 ## Description
 
